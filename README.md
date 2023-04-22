@@ -49,11 +49,11 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 
 <img src="https://github-readme-stats.vercel.app/api?username=syte1&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" style="overflow-x: hidden;">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syte1&theme=tokyonight&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table> 
 
 
 ## Languages and Tools  
