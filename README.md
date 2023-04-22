@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 Hi there! My name is Belal Kourkmas, and I am a software developer based in Vancouver, BC. I have experience working with a variety of programming languages and frameworks, including Python, Java, JavaScript, C, HTML/CSS, Django, REST, React, MongoDB, Node.js, Express, JavaFX, and FXGL.
 
-Currently, I am in my final term in BCIT's Computer Systems Technology diploma program, specializing in Cloud, and will graduate in December 2023.
+Currently, I am in my final term in BCIT's Computer Systems Technology program, specializing in Cloud, and will graduate in December 2023.
 
 At Clarius Mobile Health, I gained experience in back-end development on a cloud platform using Python (Django REST Framework) and JavaScript with Docker and various other services. During my time there, I enabled automatic violation testing on GitHub by resolving 1500+ wemake-python-styleguide violations, streamlining code review processes. I also implemented unit tests, fixed features for the front and back end, and ensured data validation to prevent potential client issues. Through these efforts, I reduced technical debt and improved overall code quality, resulting in enhanced system stability, scalability, and long-term maintainability. Additionally, I have worked as a teacher's assistant and marker for a programming course at the British Columbia Institute of Technology.
 
