@@ -102,8 +102,3 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=syte1&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
