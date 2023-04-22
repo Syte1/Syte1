@@ -34,7 +34,6 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 
 - ⚡ Fun fact: I play anime/game music on piano by ear.  
 
-
 </td><td valign="top" width="50%">
 
 <img src="https://photo-app-photos.s3.us-west-2.amazonaws.com/2230f7a0-100e-4982-92a2-c479c8237140.gif" align="left" height="200" width="" />  
@@ -88,8 +87,13 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="35" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="35" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="35" /></a>  
-</div>  
+</div>
 
+```python
+while (answer := input("Hire Belal?")) not in ["yes", "y"]:
+    print("Please enter 'yes' to hire Belal.")
+print("Belal has been hired!")
+```
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=syte1&&style=flat-square)  
   
