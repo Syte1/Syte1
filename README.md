@@ -8,9 +8,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I'm Belal Kourkmas, a software developer from Vancouver, BC, with experience in a variety of programming languages and frameworks, including Python, Java, JavaScript, C, HTML/CSS, Django, REST, React, MongoDB, Node.js, Express, JavaFX, and FXGL.
 
@@ -50,6 +47,19 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 <br/>  
 
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=syte1&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syte1&theme=tokyonight&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
@@ -86,24 +96,7 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="35" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="35" /></a>  
 </div>  
-
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syte1&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syte1&theme=tokyonight&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 
