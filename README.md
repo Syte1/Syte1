@@ -15,11 +15,9 @@ I'm currently completing my final term in BCIT's Computer Systems Technology pro
 
 At Clarius Mobile Health, I worked on back-end development of a cloud platform using Python (Django REST Framework) and JavaScript with Docker and various other services. During my time there, I resolved 1500+ wemake-python-styleguide violations to streamline code review processes, implemented unit tests, and fixed features for the front and back end to ensure data validation and prevent potential client issues. I'm also experienced in teaching, having worked as a TA and marker for a programming course at BCIT.
 
-In my free time, I work on personal projects, including a snack exchanging web app, a Java game, an OpenAI Discord bot, React web applications, and an OpenCV program. My passion for technology, improvement, and problem-solving drives me to constantly work on new projects and enhance my skills.
+My passion for technology, improvement, and problem-solving drives me to constantly work on new projects and enhance my skills.
 
 Feel free to check out my projects here or by visiting my portfolio at [Syte1.github.io](https://syte1.github.io/) (Videos included). If you have any questions or would like to connect, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/belalk/).
-
-<br/>  
 
 
 ## Rapidfire  
@@ -44,7 +42,6 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 
 </td></tr></table>  
 
-<br/>  
 
 
 ## Github Stats  
@@ -58,7 +55,6 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 
 </td></tr></table>  
 
-<br/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -96,9 +92,7 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="35" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="35" /></a>  
 </div>  
-<br/>  
 
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=syte1&&style=flat-square)  
   
