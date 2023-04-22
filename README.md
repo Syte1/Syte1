@@ -40,7 +40,9 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 <img src="https://photo-app-photos.s3.us-west-2.amazonaws.com/2230f7a0-100e-4982-92a2-c479c8237140.gif" align="left" height="200" width="" />  
 
 
-</td></tr></table style="overflow-x: hidden">  
+</td></tr>
+
+</table style="overflow-x: hidden; padding:0; margin:0">
 
 ## Github Stats  
 <table><tr><td valign="top" width="48%">
