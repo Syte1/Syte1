@@ -40,10 +40,10 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 <img src="https://photo-app-photos.s3.us-west-2.amazonaws.com/2230f7a0-100e-4982-92a2-c479c8237140.gif" align="left" height="200" width="" />  
 
 
-</td></tr></table>  
+</td></tr></table style="overflow-x: hidden">  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="48%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=syte1&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" align="left" style="width: 100%; padding:0; margin:0"/>
 
