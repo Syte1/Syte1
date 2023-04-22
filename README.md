@@ -12,16 +12,15 @@
 
 
 ### Glad to see you here!  
-Hi there! My name is Belal Kourkmas, and I am a software developer based in Vancouver, BC. I have experience working with a variety of programming languages and frameworks, including Python, Java, JavaScript, C, HTML/CSS, Django, REST, React, MongoDB, Node.js, Express, JavaFX, and FXGL.
+I'm Belal Kourkmas, a software developer from Vancouver, BC, with experience in a variety of programming languages and frameworks, including Python, Java, JavaScript, C, HTML/CSS, Django, REST, React, MongoDB, Node.js, Express, JavaFX, and FXGL.
 
-Currently, I am in my final term in BCIT's Computer Systems Technology program, specializing in Cloud, and will graduate in December 2023.
+I'm currently completing my final term in BCIT's Computer Systems Technology program, specializing in Cloud, and will graduate in December 2023.
 
-At Clarius Mobile Health, I gained experience in back-end development on a cloud platform using Python (Django REST Framework) and JavaScript with Docker and various other services. During my time there, I enabled automatic violation testing on GitHub by resolving 1500+ wemake-python-styleguide violations, streamlining code review processes. I also implemented unit tests, fixed features for the front and back end, and ensured data validation to prevent potential client issues. Through these efforts, I reduced technical debt and improved overall code quality, resulting in enhanced system stability, scalability, and long-term maintainability. Additionally, I have worked as a teacher's assistant and marker for a programming course at the British Columbia Institute of Technology.
+At Clarius Mobile Health, I worked on back-end development of a cloud platform using Python (Django REST Framework) and JavaScript with Docker and various other services. During my time there, I resolved 1500+ wemake-python-styleguide violations to streamline code review processes, implemented unit tests, and fixed features for the front and back end to ensure data validation and prevent potential client issues. I'm also experienced in teaching, having worked as a TA and marker for a programming course at BCIT.
 
-Outside of work, I enjoy working on personal projects, such as a snack exchanging web app, a Java game, an OpenAI Discord bot, React web applications, and an OpenCV program. I am passionate about technology, improvement, and problem-solving, and often work on projects for fun.
+In my free time, I work on personal projects, including a snack exchanging web app, a Java game, an OpenAI Discord bot, React web applications, and an OpenCV program. My passion for technology, improvement, and problem-solving drives me to constantly work on new projects and enhance my skills.
 
-Please feel free to check out my technical skills, work history, and projects, or visit my portfolio at Syte1.github.io/. If you have any questions or would like to connect, please feel free to reach out to me on LinkedIn at LinkedIn.com/in/belalk/.  
-  
+Feel free to check out my projects here or by visiting my portfolio at [Syte1.github.io](https://syte1.github.io/) (Videos included). If you have any questions or would like to connect, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/belalk/).
 
 <br/>  
 
