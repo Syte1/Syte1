@@ -2,10 +2,10 @@
   
 
 <a href="https://github.com/syte1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 <a href="https://linkedin.com/in/belalk" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
 </a>  
   
 ### Glad to see you here!  
@@ -45,16 +45,13 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 </table style="overflow-x: hidden; padding:0; margin:0">
 
 ## Github Stats  
-<table><tr><td valign="top" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syte1&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" align="left" style="width: 100%; padding:0; margin:0"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syte1&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" align="left" style="width: 47%; padding:0; margin:0"/>
 
-</td><td valign="top" width="50%" style="overflow-x: hidden">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syte1&theme=tokyonight&include_all_commits=true&count_private=true" align="left" style="width: 100%; padding:0; margin:0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syte1&theme=tokyonight&include_all_commits=true&count_private=true"  style="width: 50%; padding:0; margin:0" />
 
-</td></tr></table>  
-
+</br>
 
 ## Languages and Tools  
 <div align="center">  
