@@ -45,7 +45,7 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=syte1&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" align="left" style="width: 47%; padding:0; margin:0"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syte1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" align="left" style="width: 47%; padding:0; margin:0"/>
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syte1&theme=tokyonight&include_all_commits=true&count_private=true"  style="width: 50%; padding:0; margin:0" />
