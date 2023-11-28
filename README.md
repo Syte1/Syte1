@@ -90,7 +90,7 @@ Feel free to check out my projects here or by visiting my portfolio at [Syte1.gi
 </div>
 
 ```python
-while (answer := input("Hire Belal?")) not in ["yes", "y"]:
+while (answer := input("Hire Belal?\n")) not in ("yes", "y"):
     print("Please enter 'yes' to hire Belal.")
 print("Belal has been hired!")
 ```
