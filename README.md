@@ -9,7 +9,7 @@
 </a>  
   
 ### Glad to see you here!  
-I'm Belal Kourkmas, a software developer from Vancouver, BC, with experience in a variety of programming languages and frameworks, including Python, Java, JavaScript, C, HTML/CSS, Django, REST, React, MongoDB, Node.js, Express, JavaFX, and FXGL.
+I'm Belal Evan Kourkmas, a software developer from Vancouver, BC, with experience in a variety of programming languages and frameworks, including Python, Java, JavaScript, C, HTML/CSS, Django, REST, React, MongoDB, Node.js, Express, JavaFX, and FXGL.
 
 I'm currently completing my final term in BCIT's Computer Systems Technology program, specializing in Cloud, and will graduate in December 2023.
 
