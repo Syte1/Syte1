@@ -8,25 +8,25 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
 </a>  
   
-### Glad to see you here!  
-I'm Belal Evan Kourkmas, a software developer from Vancouver, BC, with experience in a variety of programming languages and frameworks, including Python, Java, JavaScript, C, HTML/CSS, Django, REST, React, MongoDB, Node.js, Express, JavaFX, and FXGL.
+### Hi there!  
+I'm Belal Evan Kourkmas, a software developer from Vancouver, BC, with 3 years of professional experience and 4 years of educational experience.
 
-I'm currently completing my final term in BCIT's Computer Systems Technology program, specializing in Cloud, and will graduate in December 2023.
+I've graduated from BCIT's Computer Systems Technology program where I received the equivalent education to a Bachelors.
 
-At Clarius Mobile Health, I worked on back-end development of a cloud platform using Python (Django REST Framework) and JavaScript with Docker and various other services. During my time there, I resolved 1500+ wemake-python-styleguide violations to streamline code review processes, implemented unit tests, and fixed features for the front and back end to ensure data validation and prevent potential client issues. I'm also experienced in teaching, having worked as a TA and marker for a programming course at BCIT.
+I have experience working with many different languages and technologies, along with many chances to create projects in groups.
 
 My passion for technology, improvement, and problem-solving drives me to constantly work on new projects and enhance my skills.
 
-Feel free to check out my projects here or by visiting my portfolio at [Syte1.github.io](https://syte1.github.io/) (Videos included). If you have any questions or would like to connect, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/belalk/).
+Feel free to check out my projects by visiting my portfolio at [Syte1.github.io](https://syte1.github.io/) (Videos included). If you have any questions or would like to connect, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/belalk/).
 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on an AWS React.js / Express.js app Anon Images https://belalk.xyz  
+- 🔭 I'm currently creating a containerized and scalable shop-front with MedusaJS, which uses Next.js/React and PostgreSQL
   
 
-- 🌱 I’m currently learning React, TypeScript, and Cloud  
+- 🌱 I'm currently learning more about React and React Redux with a Udemy course "Modern React with Redux [2023 Update]" by Stephen Grider
   
 
 - ❓ Ask me about anything related to Python; it's my favorite language.  
