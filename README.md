@@ -18,20 +18,6 @@ My passion for technology, improvement, and problem-solving drives me to constan
 Feel free to check out my projects by visiting my portfolio at [Syte1.github.io](https://syte1.github.io/) (Videos included). If you have any questions or would like to connect, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/belalk/).
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I'm currently creating a containerized and scalable shop-front with MedusaJS, which uses Next.js/React and PostgreSQL
-  
-
-- 🌱 I'm currently learning more about React and React Redux with a Udemy course "Modern React with Redux [2023 Update]" by Stephen Grider
-  
-
-- ❓ Ask me about anything related to Python; it's my favorite language.  
-  
-
-- ⚡ Fun fact: I play anime/game music on piano by ear.  
-
 </td><td valign="top" width="50%">
 
 <img src="https://photo-app-photos.s3.us-west-2.amazonaws.com/2230f7a0-100e-4982-92a2-c479c8237140.gif" align="left" height="200" width="" />  
