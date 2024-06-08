@@ -1,4 +1,4 @@
-## Hey 👋, I'm Belal Kourkmas!  
+## Hi, I'm Belal Kourkmas!  
   
 
 <a href="https://github.com/syte1" target="_blank">
