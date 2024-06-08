@@ -11,9 +11,7 @@
 ### Hi there!  
 I'm Belal Kourkmas, a software developer from Vancouver, BC, with 3 years of professional experience and 4 years of educational experience.
 
-I've graduated from BCIT's Computer Systems Technology program where I received the equivalent education to a Bachelors.
-
-I have experience working with many different languages and technologies, along with many chances to create projects in groups.
+I have experience working with many different languages and technologies, along with a ton of experience working alongside others.
 
 My passion for technology, improvement, and problem-solving drives me to constantly work on new projects and enhance my skills.
 
