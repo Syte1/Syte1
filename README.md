@@ -9,7 +9,7 @@
 </a>  
   
 ### Hi there!  
-I'm Belal Evan Kourkmas, a software developer from Vancouver, BC, with 3 years of professional experience and 4 years of educational experience.
+I'm Belal Kourkmas, a software developer from Vancouver, BC, with 3 years of professional experience and 4 years of educational experience.
 
 I've graduated from BCIT's Computer Systems Technology program where I received the equivalent education to a Bachelors.
 
