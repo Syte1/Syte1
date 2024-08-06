@@ -65,9 +65,9 @@ Feel free to check out my projects by visiting my portfolio at [Syte1.github.io]
 </div>
 
 ```python
-while (answer := input("Hire Belal?\n")) not in ("yes", "y"):
-    print("Please enter 'yes' to hire Belal.")
-print("Belal has been hired!")
+while (response := input("Would you like to hire Belal? (yes/y): ").strip().lower()) not in {"yes", "y"}:
+    print("To proceed, please respond with 'yes' or 'y'.")
+print("Thank you! Belal has been hired!")
 ```
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=syte1&&style=flat-square)  
