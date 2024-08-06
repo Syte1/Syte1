@@ -6,7 +6,7 @@
 </a>  
   
 ### Hi there!  
-I'm Belal Kourkmas, a software developer from Vancouver, BC, with 3 years of professional experience and 4 years of educational experience.
+I'm Belal Kourkmas, a software developer from Vancouver, BC, with 7 years of combined professional and educational experience in software development.
 
 I have experience working with many different languages and technologies, along with a ton of experience working alongside others.
 
